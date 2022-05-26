@@ -194,23 +194,12 @@
 <input type="date" name="rec" class="input-padrao">
 </div>
 
-
-
-
-
-
-
 			</div>
-								
-						
-
-						
-				
+										
 
 			<table>
 			
 		</main>
-
 		
 	</body>
 </html>
